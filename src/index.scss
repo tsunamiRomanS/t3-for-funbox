@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+    background: 
+	url("./assets/shadow.png") center,
+	url("./assets/Pattern.png") center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
